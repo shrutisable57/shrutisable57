@@ -82,7 +82,7 @@ This web application, built using JavaScript, EJS, and CSS, helps users create a
 
 - 🏆 Python from Beginners from Simplilearn-2023
 
-- 🏆Full Stack Web Developer - 2024
+- 🏆Full Stack Web Developer - 2025
 
 
 <p>

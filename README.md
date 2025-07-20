@@ -13,7 +13,7 @@
   
 - 👩‍🎓 I have completed my B-tech in **Electronics & Computer Science from Pillai College of Engineering**
 
-- I'm currently working in **Network inc**
+- I'm currently working as **Back-end Developer** in **Advin Software Pvt. LTD.**
 
 - 🌱 I’m currently learning **Full Stack**
 

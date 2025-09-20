@@ -48,15 +48,31 @@ Jan 2024- March 2024
 Worked on data from SIMATIC-controlled systems for performance reports 
 Collaborated on automation project in industrial water tank system
 
-<div>
-  <h2>📚 Languages and Tools:</h2>
-  <span style="background-color:#4479A1; color:white; padding:5px 10px; margin:2px; border-radius:5px;">MySQL</span>
-  <span style="background-color:#306998; color:white; padding:5px 10px; margin:2px; border-radius:5px;">Python</span>
-  <span style="background-color:#F2C811; color:black; padding:5px 10px; margin:2px; border-radius:5px;">Power BI</span>
-  <span style="background-color:#E97627; color:white; padding:5px 10px; margin:2px; border-radius:5px;">Tableau</span>
-  <span style="background-color:#217346; color:white; padding:5px 10px; margin:2px; border-radius:5px;">Excel</span>
-  <span style="background-color:#FF9900; color:white; padding:5px 10px; margin:2px; border-radius:5px;">AWS</span>
+# 📚 Languages and Tools:
+<div class="skills-container" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 20px;">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="power-bi" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/> 
+    </a> 
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+    </a> 
+</p>
 </div>
+
 
 
 <h3 align="left">Connect with me:</h3>

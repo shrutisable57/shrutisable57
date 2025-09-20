@@ -50,19 +50,15 @@ Collaborated on automation project in industrial water tank system
 
 # 📚 Languages and Tools:
 <div class="skills-container" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 20px;">
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <div class="badges-container">
-        <a href="#" class="badge mysql" data-logo="My SQL">My SQL</a>
-        <a href="#" class="badge python" data-logo="Python">Python</a>
-        <a href="#" class="badge powerbi" data-logo="Power BI">Power BI</a>
-        <a href="#" class="badge tableau" data-logo="Tableau">Tableau</a>
-        <a href="#" class="badge excel" data-logo="Excel">Excel</a>
-    </div>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mysql.com/">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" 
+       style="max-width: 100%;">
+</a>
+
 </div>
 </p>
 </div>
-
 
 
 <h3 align="left">Connect with me:</h3>

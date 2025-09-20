@@ -93,14 +93,14 @@ Utilized DAX (Data Analysis Expressions) for creating measures and calculated co
 Analyzed chatbot interaction data to detect user emotional sentiment.
 Used Python with libraries such as Pandas and Matplotlib for data analysis and visualization of user behavior trends.
 Generated insights to better understand patterns in mental health conversations.
-# Tech Stack: Python, Pandas, Matplotlib
+Tech Stack: Python, Pandas, Matplotlib
 
 ### Netflix Dashboard using Power BI
 Developed an interactive Netflix Dashboard in Power BI to analyze shows and movies dataset.
 Included KPIs such as Total Shows, Directors, and Listings, with filters for Years (2008–2021).
 Visualized insights like ratings by shows, genres, country distribution, and yearly trends.
 Used Excel for data preprocessing and DAX in Power BI for calculated measures.
-# Tech Stack: Power BI, Excel, DAX
+Tech Stack: Power BI, Excel, DAX
 
 
 # 🔖 Certificates:

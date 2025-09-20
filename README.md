@@ -55,21 +55,25 @@ Collaborated on automation project in industrial water tank system
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" 
        style="max-width: 100%;">
 </a>
+
     
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.python.org/">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" 
        style="max-width: 100%;">
 </a>
 
+
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://powerbi.microsoft.com/">
   <img src="https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=black" 
        style="max-width: 100%;">
 </a>
 
+
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.microsoft.com/en-us/microsoft-365/excel">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" 
        style="max-width: 100%;">
 </a>
+
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.tableau.com/">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" 

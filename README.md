@@ -52,24 +52,96 @@ Collaborated on automation project in industrial water tank system
 <div class="skills-container" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 20px;">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.imdb.com/title/tt18272208/" alt="power-bi" width="40" height="40"/>
-    </a>
-    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/> 
-    </a> 
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-    </a> 
+    <div class="skills-section">
+    <h2>Languages and Tools:</h2>
+    <div class="badges-container">
+        <a href="#" class="badge mysql" data-logo="My SQL">My SQL</a>
+        <a href="#" class="badge python" data-logo="Python">Python</a>
+        <a href="#" class="badge powerbi" data-logo="Power BI">Power BI</a>
+        <a href="#" class="badge tableau" data-logo="Tableau">Tableau</a>
+        <a href="#" class="badge excel" data-logo="Excel">Excel</a>
+    </div>
+
+1. SECTION STYLING (for context)
+.skills-section {
+    padding: 20px;
+    background-color: #1b1b1b; /* Dark background color */
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.skills-section h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #333;
+    padding-bottom: 10px;
+}
+
+/* 2. BADGE CONTAINER */
+.badges-container {
+    display: flex;
+    flex-wrap: wrap; /* Allows badges to wrap to the next line */
+    gap: 10px; /* Space between badges */
+}
+
+/* 3. BASE BADGE STYLING */
+.badge {
+    /* Basic display and typography */
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 6px 12px;
+    border-radius: 5px; /* Slightly rounded corners */
+    transition: background-color 0.3s;
+
+}
+
+.badge:hover {
+    filter: brightness(1.2); /* Slightly brighten on hover */
+}
+
+/* 4. SPECIFIC BADGE COLORS (HEX codes inspired by the technologies) */
+.mysql {
+    background-color: #4479A1; 
+}
+
+.python {
+    background-color: #3776AB; 
+}
+
+.powerbi {
+    background-color: #F2C811; /* Yellow/Gold */
+    color: black; /* Use black text on the yellow background */
+}
+
+.tableau {
+    background-color: #E97627; /* Orange */
+}
+
+.excel {
+    background-color: #217346; /* Dark Green */
+}
+
+/* 5. OPTIONAL: Adding a 'logo' via CSS for a more authentic look */
+/* To use true logos, you would need to use an icon font like FontAwesome or Devicon. 
+   For a simple approach, you can just prefix the text: */
+
+/*
+.badge::before {
+    content: ''; 
+    margin-right: 5px;
+    font-weight: bold;
+}
+
+.mysql::before { content: '🗄️'; } 
+.python::before { content: '🐍'; }
+.powerbi::before { content: '📊'; }
+.tableau::before { content: '📈'; }
+.excel::before { content: '🟢'; }
+*/
+</style>
+</div>
 </p>
 </div>
 

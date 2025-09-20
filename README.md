@@ -17,8 +17,6 @@
 
 - 🌱 I’m currently learning **Full Stack**
 
-- 👩‍💻 All of my projects are available at [https://awake-viole-0d4rytr0.dcms.site/](https://awake-viole-0d4rytr0.dcms.site/)
-
 - 📫 How to reach me **shrutisable57@gmail.com** , **www.linkedin.com/in/shruti-sable-a77518250**
 
 - 📍 Location: Navi Mumbai, Maharashtra.
@@ -26,32 +24,55 @@
 
 # 💼 Experience:
 
+### AdvinSoftwares Pvt LTD.
+*Backend Developer*
+June 2025-Present
+Designed and maintained backend APIs using Python and MySQL 
+Worked closely with frontend and database teams to ensure smooth data flow and 
+performance 
+Handled data extraction, transformation, and loading (ETL) tasks for internal 
+dashboards 
+Gained hands-on experience in SQL queries, data validation, and debugging 
+
+# 💼 Internships:
+
 ### Emerson Branson 
 *Marketing*  
 Dec 2022-Feb 2023
-Market Research in Electronics ,EV Batteries And Appliance.
+Analysed electronics and EV battery market data using Excel 
+Built trend analysis reports for business stakeholders 
 
 ### Primetals technologies India Pvt. LTD.
 *Designing*  
 Jan 2024- March 2024  
-Designing in Simatic software in Water Tank control system
+Worked on data from SIMATIC-controlled systems for performance reports 
+Collaborated on automation project in industrial water tank system
 
 # 📚 Languages and Tools:
 <div class="skills-container" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 20px;">
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
+<p align="left"> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="power-bi" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/> 
+    </a> 
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+    </a> 
+</p>
 </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,16 +83,24 @@ Designing in Simatic software in Water Tank control system
 
 
 # 🖥️ Project:
-### Brand Generator 
-This web application, built using JavaScript, EJS, and CSS, generates creative and catchy band names. Users simply enter a keyword or theme, and the app uses a combination of algorithms and a database of words to generate unique and memorable band name suggestions.
+### Sales Dashboard using Power BI  
+Designed and developed a dynamic Sales Dashboard in Power BI with interactive filters for region and time period.
+Performed data cleaning and preprocessing in Excel before importing into Power BI.
+Utilized DAX (Data Analysis Expressions) for creating measures and calculated columns.
+# Tech Stack: Power BI, Excel, DAX
 
+### Mental Health Chatbot Data Analysis
+Analyzed chatbot interaction data to detect user emotional sentiment.
+Used Python with libraries such as Pandas and Matplotlib for data analysis and visualization of user behavior trends.
+Generated insights to better understand patterns in mental health conversations.
+# Tech Stack: Python, Pandas, Matplotlib
 
-### Family travel tracker 
-This web application, built using JavaScript, EJS, and CSS, helps families keep track of their travel plans and destinations. The interactive world map allows users to visualize their visited countries and plan future trips.
-
-
-### Permalist project 
-This web application, built using JavaScript, EJS, and CSS, helps users create and manage to-do lists. The intuitive interface allows users to add, edit, and check off tasks, making it easy to stay organized and productive.
+### Netflix Dashboard using Power BI
+Developed an interactive Netflix Dashboard in Power BI to analyze shows and movies dataset.
+Included KPIs such as Total Shows, Directors, and Listings, with filters for Years (2008–2021).
+Visualized insights like ratings by shows, genres, country distribution, and yearly trends.
+Used Excel for data preprocessing and DAX in Power BI for calculated measures.
+# Tech Stack: Power BI, Excel, DAX
 
 
 # 🔖 Certificates:
@@ -82,7 +111,9 @@ This web application, built using JavaScript, EJS, and CSS, helps users create a
 
 - 🏆 Python from Beginners from Simplilearn-2023
 
-- 🏆Full Stack Web Developer - 2025
+- 🏆 Google Cloud Data Analyst Learning Path(2765 points)-2023 
+
+- 🏆 Full Stack Web Developer - 2025
 
 
 <p>

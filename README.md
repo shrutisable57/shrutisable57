@@ -52,8 +52,6 @@ Collaborated on automation project in industrial water tank system
 <div class="skills-container" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 20px;">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <div class="skills-section">
-    <h2>Languages and Tools:</h2>
     <div class="badges-container">
         <a href="#" class="badge mysql" data-logo="My SQL">My SQL</a>
         <a href="#" class="badge python" data-logo="Python">Python</a>

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shruti Sable</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
     
 # About Me:
 
 <p align="left">
- A passionate Web Developer with a strong background in front-end technologies like HTML, CSS, JavaScript, BootStrap, Node js & React.   <br><br>
+ A passionate Data Analyst with a strong background in technologies like Python,MY-SQL,Power-BI,Tabealu,Excel.  <br><br>
   
 </p>
  </div>

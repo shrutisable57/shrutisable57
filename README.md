@@ -87,7 +87,7 @@ Collaborated on automation project in industrial water tank system
 Designed and developed a dynamic Sales Dashboard in Power BI with interactive filters for region and time period.
 Performed data cleaning and preprocessing in Excel before importing into Power BI.
 Utilized DAX (Data Analysis Expressions) for creating measures and calculated columns.
-# Tech Stack: Power BI, Excel, DAX
+Tech Stack: Power BI, Excel, DAX
 
 ### Mental Health Chatbot Data Analysis
 Analyzed chatbot interaction data to detect user emotional sentiment.

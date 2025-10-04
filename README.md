@@ -24,7 +24,7 @@
 
 # 💼 Experience:
 
-### AdvinSoftwares Pvt LTD.
+### Advin Softwares Pvt LTD.
 *Backend Developer*
 June 2025-Present
 Designed and maintained backend APIs using Python and MySQL 
